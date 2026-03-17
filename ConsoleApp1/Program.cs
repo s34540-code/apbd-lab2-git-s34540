@@ -25,3 +25,6 @@ if (int.TryParse(input, out int number))
     int square = number * number;
     Console.WriteLine($"Square of the number: {square}");
 }
+
+// Example in Program.cs
+Console.WriteLine("Tip: Only enter positive numbers.");
