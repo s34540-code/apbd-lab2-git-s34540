@@ -27,6 +27,9 @@ if (int.TryParse(input, out int number))
 }
 
 
+<<<<<<< HEAD
 Console.WriteLine("Press any key to exit...");
+
+
 
 Console.WriteLine("Tip: Only enter positive numbers.");
