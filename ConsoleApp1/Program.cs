@@ -33,3 +33,4 @@ Console.WriteLine("Press any key to exit...");
 Console.WriteLine("Please type a number carefully:");
 
 Console.WriteLine("Tip: Only enter positive numbers.");
+Console.WriteLine("Enter any number (feature-conflict branch):");
