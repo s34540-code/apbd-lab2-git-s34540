@@ -18,3 +18,10 @@ else
 {
     Console.WriteLine($"Number entered: {number}");
 }
+
+
+if (int.TryParse(input, out int number))
+{
+    int square = number * number;
+    Console.WriteLine($"Square of the number: {square}");
+}
