@@ -1,0 +1,1 @@
+This merge was not fast-forward because both 'main' and 'feature-max' had independent commits. Since main had changes that were not in feature-max, Git could not simply move the branch pointer forward.
