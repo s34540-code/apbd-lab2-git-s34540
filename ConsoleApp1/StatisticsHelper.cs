@@ -8,4 +8,9 @@ public static class StatisticsHelper
             sum += v;
         return (double)sum / values.Length;
     }
+    
+    public static int CalculateMin(int[] values)
+    {
+        return 0; 
+    }
 }
